@@ -1,0 +1,7 @@
+numpy
+torch
+datasets
+matplotlib
+spacy
+bnlp-toolkit
+unicodedata2
