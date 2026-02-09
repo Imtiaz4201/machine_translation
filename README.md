@@ -80,7 +80,7 @@ Notes
 * **Tokenization strategy.** The current code uses word/token-level splitting for demonstration. In practice, **subword (BPE/SentencePiece)** or sentence tokenization strategies (and proper normalization) greatly improve coverage and model accuracy.
 
 # Flask Demo
-
+<img src="web_app_ui.png" alt="transTVLOSS" width="800" height="800">
 
 ## References & links
 
