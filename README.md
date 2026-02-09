@@ -14,7 +14,8 @@ from datasets import load_dataset
 dataset = load_dataset("Helsinki-NLP/opus-100", "bn-en")
 ```
 
-Hugging Face dataset page and the OPUS project pages contain full metadata and download links. [Hugging Face](https://huggingface.co/datasets/Helsinki-NLP/opus-100?utm_source=chatgpt.com)
+Hugging Face dataset page and the OPUS project pages contain full metadata and download links.
+[Hugging Face](https://huggingface.co/datasets/Helsinki-NLP/opus-100?utm_source=chatgpt.com)
 
 ## Results
 Results of the Transformer (seq2seq) model (all model results are included in the Jupyter notebook).
