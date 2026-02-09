@@ -5,7 +5,7 @@ This repository provides a reproducible end-to-end pipeline for English → Beng
 
 ## Dataset
 
-This project uses the **OPUS-100** parallel corpus (English-centric) as the source of parallel training data for many language pairs including **bn-en**. OPUS-100 is a sampled multilingual corpus covering 100 languages and contains tens of millions of sentence pairs (≈55M sentence pairs across the set). Many language pairs have substantial data (for example, dozens of language pairs contain ≥1M sentence pairs while most have ≥10k). OPUS is the open parallel corpus collection maintained by the Helsinki NLP group. ([Hugging Face][1])
+This project uses the **OPUS-100** parallel corpus (English-centric) as the source of parallel training data for many language pairs including **bn-en**. OPUS-100 is a sampled multilingual corpus covering 100 languages and contains tens of millions of sentence pairs (≈55M sentence pairs across the set).
 
 You can load the bn↔en portion using Hugging Face Datasets (example):
 
